@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509032829_psp_create_permission.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509042777_psp_find_permission.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509372889_psp_update_permission.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509376524_psp_delete_permission.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509376799_psp_create_role.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509377023_psp_find_role.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509377157_psp_update_role.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509383026_psp_create_address.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509383169_psp_find_address.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509383538_psp_update_address.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509385043_psp_create_country.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509385088_psp_find_country.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509386797_psp_create_measurement.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509386879_psp_find_measurements.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509387286_psp_update_measurement.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509391688_psp_create_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509391725_psp_find_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509391757_psp_update_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509391836_psp_update_user_login.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509391909_psp_find_role_by_name.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509416784_psp_find_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509418337_psp_find_address.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509425999_psp_find_country_by_name.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1509589887_psp_find_permission_by_name.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1510670224_psp_create_address_type.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1510670704_psp_create_address.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1510673706_psp_update_address.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1510674243_psp_find_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/stored_procedures/1511170672_psp_get_authorities.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509041830_alter_tbl_permissions.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509253321_alter_tbl_users.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509378437_alter_tbl_roles.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509382717_alter_tbl_addresses.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509387518_alter_tbl_users.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509419033_alter_tbl_countries.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1509428487_tbl_authorities.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1510668819_alter_tbl_users.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/tables/1510669556_alter_tbl_addresses.sql" dialect="MySQL" />
+  </component>
+</project>
