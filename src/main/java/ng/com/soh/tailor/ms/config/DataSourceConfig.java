@@ -32,13 +32,6 @@ public class DataSourceConfig {
         hikariDataSource.setPassword(dataSourcePassword);
 
         return hikariDataSource;
-        /*DataSourceBuilder dataSourceBuilder = DataSourceBuilder.create();
-        dataSourceBuilder.driverClassName(dataSourceDriverClassName);
-        dataSourceBuilder.url(dataSourceUrl);
-        dataSourceBuilder.username(dataSourceUsername);
-        dataSourceBuilder.password(dataSourcePassword);
-
-        return dataSourceBuilder.build();*/
     }
 
 }
